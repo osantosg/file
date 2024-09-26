@@ -258,20 +258,20 @@
     }
   ],
   "custom_images_enable": true,
-  "custom_images":[
-      {
-         "item":"image_toolbar_name",
-         "value":"image_toolbar",
-         "url":"https://configlookandfeel.s3.amazonaws.com/Mifel/mifel-200x200.png",
-         "enable":true
-      },
-      {
-         "item":"image_ticket_stripe",
-         "value":"image_stripe",
-         "url":"https://static.thenounproject.com/png/645164-200.png",
-         "enable":true
-      }
-   ],
+  "custom_images": [
+    {
+      "item": "image_toolbar_name",
+      "value": "image_toolbar",
+      "url": "https://configlookandfeel.s3.amazonaws.com/Mifel/mifel-200x200.png",
+      "enable": true
+    },
+    {
+      "item": "image_ticket_stripe",
+      "value": "image_stripe",
+      "url": "https://static.thenounproject.com/png/645164-200.png",
+      "enable": true
+    }
+  ],
   "custom_animations_enable": true,
   "custom_animations": [
     {
@@ -293,3 +293,4 @@
       "enable": true
     }
   ]
+}
