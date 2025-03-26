@@ -291,6 +291,24 @@
       "url_remove": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/2b0a6a8d8559035c9a25732b7d08bbec/raw/c79cf5bab9804aa03fcb4acd65c54cc4204c2ad4/remove_card_i9100.json",
       "url_loader": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/025d584f0e7225d1e9a12dfaadb4889c/raw/00746e40571a191f1bba62f7ed888dde608f19ab/loader.json",
       "enable": true
+    },
+    {
+      "item": "animation_s1f4",
+      "value": "",
+      "url_report": "",
+      "url_insert": "",
+      "url_remove": "",
+      "url_loader": "",
+      "enable": true
+    },
+    {
+      "item": "animation_s1f4_pro",
+      "value": "",
+      "url_report": "",
+      "url_insert": "",
+      "url_remove": "",
+      "url_loader": "",
+      "enable": true
     }
   ]
 }
