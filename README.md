@@ -21,7 +21,7 @@
       "value": "#EC672C",
       "enable": true
     },
-    {x
+    {
       "item": "home_keyboard_container_color",
       "value": "#33383E",
       "enable": true
@@ -257,7 +257,7 @@
       "enable": true
     },
     {
-      "item": "Keyboard_number",<------------- key pin
+      "item": "Keyboard_number",
       "value": "#30455A",
       "enable": true
     },
