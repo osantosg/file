@@ -21,7 +21,7 @@
       "value": "#EC672C",
       "enable": true
     },
-    {
+    {x
       "item": "home_keyboard_container_color",
       "value": "#33383E",
       "enable": true
@@ -254,6 +254,41 @@
     {
       "item": "global_tertiary_button_background_color",
       "value": "#33383E",
+      "enable": true
+    },
+    {
+      "item": "Keyboard_number",<------------- key pin
+      "value": "#30455A",
+      "enable": true
+    },
+    {
+      "item": "Number_background",
+      "value": "#FFFFFF",
+      "enable": true
+    },
+    {
+      "item": "Keyboard_Background",
+      "value": "#FFC300",
+      "enable": true
+    },
+    {
+      "item": "Cancel_background",
+      "value": "#7d3c98",
+      "enable": true
+    },
+    {
+      "item": "Erase_background",
+      "value": "#e67e22 ",
+      "enable": true
+    },
+    {
+      "item": "Accept_background",
+      "value": "#7d3c98",
+      "enable": true
+    },
+    {
+      "item": "Icon_color",
+      "value": "#FFFFFF",
       "enable": true
     }
   ],
