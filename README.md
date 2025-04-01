@@ -263,7 +263,7 @@
     },
     {
       "item": "Number_background",
-      "value": "#FFFFFF",
+      "value": "#c1c0bd",
       "enable": true
     },
     {
@@ -288,7 +288,7 @@
     },
     {
       "item": "Icon_color",
-      "value": "#FFFFFF",
+      "value": "#c1c0bd",
       "enable": true
     }
   ],
