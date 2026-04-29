@@ -3,247 +3,252 @@
   "custom_ui": [
     {
       "item": "home_operation_color",
-      "value": "#00294B",
+      "value": "#FF2200",
       "enable": true
     },
     {
       "item": "home_amount_color",
-      "value": "#33383E",
+      "value": "#FF7700",
       "enable": true
     },
     {
       "item": "home_center_buys_color",
-      "value": "#00AAA8",
+      "value": "#FFCC00",
       "enable": true
     },
     {
       "item": "home_coin_color",
-      "value": "#00294B",
+      "value": "#DDFF00",
       "enable": true
     },
     {
       "item": "home_keyboard_container_color",
-      "value": "#00294B",
+      "value": "#88FF00",
       "enable": true
     },
     {
       "item": "home_keyboard_number_color",
-      "value": "#FFFFFF",
+      "value": "#00FF55",
       "enable": true
     },
     {
       "item": "home_nav_icon_enable_color",
-      "value": "#2B5287",
+      "value": "#00FFCC",
       "enable": true
     },
     {
       "item": "home_nav_icon_selected_color",
-      "value": "#00294B",
+      "value": "#00BBFF",
       "enable": true
     },
     {
       "item": "home_nav_icon_disable_color",
-      "value": "#AAAAAA",
+      "value": "#0055FF",
       "enable": true
     },
     {
       "item": "home_nav_background_color",
-      "value": "#FFFFFF",
+      "value": "#5500FF",
       "enable": true
     },
     {
       "item": "home_nav_icon_text_color",
-      "value": "#00294B",
+      "value": "#CC00FF",
       "enable": true
     },
     {
       "item": "home_sub_menu_icon_color",
-      "value": "#00AAA8",
+      "value": "#FF00AA",
       "enable": true
     },
     {
-      "item": "home_sub_menu_tex_color",
-      "value": "#00AAA8",
+      "item": "home_sub_menu_text_color",
+      "value": "#FF0055",
       "enable": true
     },
     {
       "item": "toolbar_background_color",
-      "value": "#FFFFFF",
+      "value": "#EE1111",
       "enable": true
     },
     {
       "item": "toolbar_ic_back_color",
-      "value": "#00294B",
+      "value": "#FF9900",
       "enable": true
     },
     {
       "item": "merchant_title_text_color",
-      "value": "00294B",
+      "value": "#FFEE00",
       "enable": true
     },
     {
       "item": "global_primary_text_color",
-      "value": "#00294B",
+      "value": "#AAFF00",
       "enable": true
     },
     {
       "item": "global_item_background_color",
-      "value": "#FFFFFF",
+      "value": "#00FF88",
       "enable": true
     },
     {
       "item": "global_primary_button_text_color",
-      "value": "#00ED18",
+      "value": "#00EEFF",
       "enable": true
     },
     {
       "item": "global_primary_button_background_color",
-      "value": "#00AAA8",
+      "value": "#0088FF",
       "enable": true
     },
     {
       "item": "global_icon_primary_color",
-      "value": "#FFFFFF",
+      "value": "#2200FF",
       "enable": true
     },
     {
       "item": "global_icon_primary_background_color",
-      "value": "00AAA8",
+      "value": "#9900FF",
       "enable": true
     },
     {
       "item": "signature_title_text_color",
-      "value": "#FFFFFF",
+      "value": "#EE00CC",
       "enable": true
     },
     {
       "item": "signature_container_background_color",
-      "value": "#00294B",
+      "value": "#FF0077",
       "enable": true
     },
     {
       "item": "summary_item_title_payment_m_text_color",
-      "value": "#00294B",
+      "value": "#FF3355",
       "enable": true
     },
     {
       "item": "global_card_background_color",
-      "value": "#FFFFFF",
+      "value": "#FF6633",
       "enable": true
     },
     {
       "item": "global_card_selected_background_color",
-      "value": "#00294B",
+      "value": "#FFAA33",
       "enable": true
     },
     {
       "item": "summary_item_disable_tip_background_color",
-      "value": "#FFFFFF",
+      "value": "#FFDD33",
       "enable": true
     },
     {
       "item": "global_disabled_button_text_color",
-      "value": "#FFFFFF",
+      "value": "#CCFF33",
       "enable": true
     },
     {
       "item": "global_disabled_button_background_color",
-      "value": "#C0C0C0",
+      "value": "#55FF33",
       "enable": true
     },
     {
       "item": "global_tertiary_text_color",
-      "value": "#0b45b9",
+      "value": "#22AADD",
       "enable": true
     },
     {
       "item": "global_selected_tertiary_text_color",
-      "value": "#FFFFFF",
+      "value": "#00DDBB",
       "enable": true
     },
     {
       "item": "global_disable_tertiary_text_color",
-      "value": "#C0C0C0",
+      "value": "#00CCFF",
       "enable": true
     },
     {
       "item": "global_secondary_text_color",
-      "value": "#00AAA8",
+      "value": "#0066FF",
       "enable": true
     },
     {
       "item": "global_disable_secondary_text_color",
-      "value": "#C0C0C0",
+      "value": "#6600EE",
       "enable": true
     },
     {
       "item": "global_selected_secondary_text_color",
-      "value": "#FFFFFF",
+      "value": "#BB00EE",
       "enable": true
     },
     {
       "item": "total_summary_icon_print_color",
-      "value": "#00AAA8",
+      "value": "#FF00CC",
       "enable": true
     },
     {
       "item": "global_printer_button_icon_text_color",
-      "value": "#FFFFFF",
+      "value": "#FF3388",
       "enable": true
     },
     {
       "item": "global_printer_button_background_color",
-      "value": "#00294B",
+      "value": "#FF7755",
       "enable": true
     },
     {
       "item": "global_cancel_button_icon_text_color",
-      "value": "#FFFFFF",
+      "value": "#FFBB55",
       "enable": true
     },
     {
       "item": "global_cancel_button_background_color",
-      "value": "#EB001B",
+      "value": "#EEFF55",
       "enable": true
     },
     {
       "item": "global_fourth_button_background_color",
-      "value": "#b90b20",
+      "value": "#99FF55",
       "enable": true
     },
     {
       "item": "global_fourth_button_text_color",
-      "value": "#FFFFFF",
+      "value": "#33FF88",
       "enable": true
     },
     {
       "item": "global_input_primary_text_color",
-      "value": "#00294B",
+      "value": "#33FFCC",
       "enable": true
     },
     {
       "item": "filter_secondary_text_color",
-      "value": "#00294B",
+      "value": "#33BBFF",
       "enable": true
     },
     {
       "item": "global_secondary_button_text_color",
-      "value": "#FFFFFF",
+      "value": "#3344FF",
       "enable": true
     },
     {
       "item": "global_secondary_button_background_color",
-      "value": "#0bb942",
+      "value": "#8833FF",
       "enable": true
     },
     {
       "item": "global_tertiary_button_text_color",
-      "value": "#FFFFFF",
+      "value": "#DD33FF",
       "enable": true
     },
     {
       "item": "global_tertiary_button_background_color",
-      "value": "#00294B",
+      "value": "#FF33BB",
+      "enable": true
+    },
+    {
+      "item": "global_item_selected_background_color",
+      "value": "#855718",
       "enable": true
     }
   ],
@@ -290,6 +295,15 @@
     },
     {
       "item": "animation_s1f4_pro",
+      "value": "",
+      "url_report": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/9559cc6603ea22ff6ed9db620193697c/raw/ea1464811b6c040007d86181b8360d78abbb3d9b/print_report_mifel.json",
+      "url_insert": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/be74c85f13011fa7f065bd662bb7f49e/raw/db13d40fea8f9a2017f671e0ab730d4ccbd6f247/NFC%2520Card%2520Read.json",
+      "url_remove": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/576f2ff222478aae7427aaf3b03684b9/raw/339fea44465e4d146667b38fb5402609c9fcbc18/Streak%2520Goal.json",
+      "url_loader": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/cbde4dba3d996d5ea8cacaa15e58f6d5/raw/a9d8ac3dcac2f938deaab42cf29a3b01c006c5e5/Clock%2520Lottie%2520Animation.json",
+      "enable": true
+    },
+    {
+      "item": "animation_ex6000",
       "value": "",
       "url_report": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/9559cc6603ea22ff6ed9db620193697c/raw/ea1464811b6c040007d86181b8360d78abbb3d9b/print_report_mifel.json",
       "url_insert": "https://gist.githubusercontent.com/JulioAntonioVelardeAlvarez/a0b3267225a86b456720588bf29e0a57/raw/2eb1ade9acadd4f2b1cb6519ca9411ef157aaeae/insert_slide_approach_i9000s_mifel.json",
